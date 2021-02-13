@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="924d86f8-cacd-47be-8254-4dccb2615f1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/iterator.js" afterDir="false" />
+    <list default="true" id="924d86f8-cacd-47be-8254-4dccb2615f1f" name="Default Changelist" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/OOP/Buyer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Electronics.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Human.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Seller.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,8 +39,20 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.iterator.js">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\Nodejs\PicsartJS" />
+      <recent name="C:\Users\Admin\Desktop\Nodejs\PicsartJS\Iterator" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.Seller.js">
+    <configuration name="Electronics.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/OOP/Electronics.js" working-dir="$PROJECT_DIR$/OOP">
+      <method v="2" />
+    </configuration>
     <configuration name="Promisify.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Promisify.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="Seller.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/OOP/Seller.js" working-dir="$PROJECT_DIR$/OOP">
       <method v="2" />
     </configuration>
     <configuration name="iterator.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Iterator/iterator.js" working-dir="$PROJECT_DIR$">
@@ -48,6 +63,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Seller.js" />
+        <item itemvalue="Node.js.Electronics.js" />
         <item itemvalue="Node.js.iterator.js" />
         <item itemvalue="Node.js.Promisify.js" />
         <item itemvalue="Node.js.maintest.js" />
@@ -69,8 +86,26 @@
       <workItem from="1612784272830" duration="2801000" />
       <workItem from="1612789486193" duration="1832000" />
       <workItem from="1612938294633" duration="3000" />
-      <workItem from="1612967783614" duration="1476000" />
+      <workItem from="1612967783614" duration="1636000" />
+      <workItem from="1612969471371" duration="84000" />
+      <workItem from="1613125260199" duration="6000" />
+      <workItem from="1613210206065" duration="12923000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1612969365604</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612969365604</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first commit">
+      <created>1612969376694</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612969376694</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,5 +121,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
