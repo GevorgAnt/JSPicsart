@@ -1,3 +1,4 @@
+import {Human} from "./Human.js"
 
 function Seller(name, surName, id, role)
 {
@@ -22,3 +23,4 @@ Seller.prototype.sellProduct=function (index){
     this.money+=product.money
 }
 
+let sll=new Seller("gev","Antonyan",0,"Seller")

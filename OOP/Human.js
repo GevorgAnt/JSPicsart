@@ -1,4 +1,4 @@
-function Human(name, surName, id, role)
+export function Human(name, surName, id, role)
 {
     this.name=name
     this.surName=surName
@@ -6,7 +6,7 @@ function Human(name, surName, id, role)
     this.role=role
 }
 
-Electronics.prototype.NameSurname=function () {
-    console.log(this.id +" "+this.name+" "+this.surName+this.role);
+Human.prototype.NameSurname=function () {
+    console.log(this.id +" "+this.name+" "+this.surName+" "+this.role);
 }
 

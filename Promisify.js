@@ -1,3 +1,4 @@
+import {print}  from "./esim.js"
 const myPromisify = (myFunc) => (...args) => {
         return new Promise((resolve, reject) => {
             myFunc(...args,(err,...data)=> {
@@ -27,3 +28,5 @@ const posNumSum = (num1, num2, myCallback) => {
 const getSumPromise = myPromisify(posNumSum)
 
 getSumPromise( 5,5).then(arraylist=>(console.log(arraylist))).catch(err=>{console.log(err)});
+
+print();

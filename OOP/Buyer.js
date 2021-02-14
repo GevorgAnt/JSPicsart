@@ -1,3 +1,4 @@
+import {Human} from "./Human.js";
 
 function Buyer(name, surName, id,money)
 {
