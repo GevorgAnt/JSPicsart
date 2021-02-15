@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="924d86f8-cacd-47be-8254-4dccb2615f1f" name="Default Changelist" comment="OOP">
+    <list default="true" id="924d86f8-cacd-47be-8254-4dccb2615f1f" name="Default Changelist" comment="Class OOP">
+      <change afterPath="$PROJECT_DIR$/OOP with Class/Archer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP with Class/Assasin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP with Class/Enemy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP with Class/Guardian.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP with Class/Hero.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP with Class/HeroService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP with Class/Map.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/Buyer.js" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Buyer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/Human.js" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Human.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/Seller.js" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Seller.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/Store.js" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Store.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +96,7 @@
       <workItem from="1613245976863" duration="1424000" />
       <workItem from="1613311240779" duration="1469000" />
       <workItem from="1613313300060" duration="3177000" />
-      <workItem from="1613378459001" duration="6129000" />
+      <workItem from="1613378459001" duration="13438000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1612969365604</created>
@@ -123,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613316463804</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="OOP">
+      <created>1613384674463</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1613384674463</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,7 +154,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="OOP" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOP" />
+    <MESSAGE value="Class OOP" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class OOP" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
