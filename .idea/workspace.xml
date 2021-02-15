@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="924d86f8-cacd-47be-8254-4dccb2615f1f" name="Default Changelist" comment="OOP">
-      <change afterPath="$PROJECT_DIR$/OOP/Store.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP/Buyer.js" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Buyer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/Electronics.js" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Electronics.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP/Human.js" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Human.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP/Seller.js" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Seller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Store.js" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Store.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +92,8 @@
       <workItem from="1613210206065" duration="13230000" />
       <workItem from="1613245976863" duration="1424000" />
       <workItem from="1613311240779" duration="1469000" />
-      <workItem from="1613313300060" duration="3136000" />
+      <workItem from="1613313300060" duration="3177000" />
+      <workItem from="1613378459001" duration="6129000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1612969365604</created>
@@ -116,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613235493212</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="OOP">
+      <created>1613316463804</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1613316463804</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,16 +150,21 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/OOP/Store.js</url>
-          <line>21</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="1" />
+          <url>file://$PROJECT_DIR$/OOP/Buyer.js</url>
+          <line>25</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/OOP/Buyer.js</url>
-          <line>24</line>
+          <url>file://$PROJECT_DIR$/OOP/Store.js</url>
+          <line>30</line>
           <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="2" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/OOP/Store.js</url>
+          <line>25</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
