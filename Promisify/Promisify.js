@@ -1,4 +1,4 @@
-import {print}  from "./esim.js"
+
 const myPromisify = (myFunc) => (...args) => {
         return new Promise((resolve, reject) => {
             myFunc(...args,(err,...data)=> {

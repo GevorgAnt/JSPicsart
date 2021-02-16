@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="924d86f8-cacd-47be-8254-4dccb2615f1f" name="Default Changelist" comment="Class OOP">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/Buyer.js" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Buyer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/Electronics.js" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Electronics.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/Human.js" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Human.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/node" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/node.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/node.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/node-bin-setup/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/node-bin-setup/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/node/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/node/bin/node" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/node/bin/node.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/node/installArchSpecificPackage.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/node/node_modules/.bin/node" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/node/node_modules/.bin/node.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/node/node_modules/.bin/node.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/node/node_modules/node-win-x64/bin/node.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/node/node_modules/node-win-x64/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/node/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Promisify/Promisify.js" beforeDir="false" afterPath="$PROJECT_DIR$/Promisify/Promisify.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613384674463</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Class OOP">
+      <created>1613492449451</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1613492449451</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
