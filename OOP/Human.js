@@ -1,4 +1,4 @@
-export function Human(name, surName, id,money)
+ function Human(name, surName, id,money)
 {
     this.name=name
     this.surName=surName
@@ -10,3 +10,4 @@ Human.prototype.NameSurname=function () {
     console.log(this.id +" "+this.name+" "+this.surName+" "+this.money);
 }
 
+exports.Human=Human

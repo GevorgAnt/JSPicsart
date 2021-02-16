@@ -1,5 +1,6 @@
-import {Human} from "./Human.js";
-import {arr,Electronics} from "./Electronics.js";
+const {Human}=require("./Human.js");
+const {arr}=require("./Electronics") ;
+
 
 
 function Buyer(name, surName, id,wish,money)
@@ -23,4 +24,4 @@ Buyer.prototype.lookProduct=function (product){
 }
 
 
-export let buyer=new Buyer("Pavel","Varosyan",0,"Phone",980000)
+exports.buyer=new Buyer("Pavel","Varosyan",0,"Phone",980000)

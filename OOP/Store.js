@@ -1,6 +1,6 @@
-import {sll} from "./Seller.js"
-import {arr, Electronics} from "./Electronics.js"
-import {buyer} from "./Buyer.js"
+const {sll}= require("./Seller.js")
+const {arr, Electronics}= require("./Electronics.js")
+const {buyer}= require("./Buyer.js")
 
 function Store(seller,ellArr) {
     this.seller = seller

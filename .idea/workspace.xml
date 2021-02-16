@@ -2,14 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="924d86f8-cacd-47be-8254-4dccb2615f1f" name="Default Changelist" comment="Class OOP">
-      <change afterPath="$PROJECT_DIR$/OOP with Class/Archer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP with Class/Assasin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP with Class/Enemy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP with Class/Guardian.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP with Class/Hero.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP with Class/HeroService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP with Class/Map.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Buyer.js" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Buyer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Electronics.js" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Electronics.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Human.js" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Human.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/node" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/node.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/node.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-bin-setup/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-bin-setup/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node/bin/node" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node/bin/node.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node/installArchSpecificPackage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node/node_modules/.bin/node" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node/node_modules/.bin/node.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node/node_modules/.bin/node.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node/node_modules/node-win-x64/bin/node.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node/node_modules/node-win-x64/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,10 +64,10 @@
     <configuration name="Buyer.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/OOP/Buyer.js" working-dir="$PROJECT_DIR$/OOP">
       <method v="2" />
     </configuration>
-    <configuration name="Computer.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/OOP/Computer.js" working-dir="$PROJECT_DIR$/OOP">
+    <configuration name="HeroService.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/OOP with Class/HeroService.js" working-dir="$PROJECT_DIR$/OOP with Class">
       <method v="2" />
     </configuration>
-    <configuration name="Promisify.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Promisify.js" working-dir="$PROJECT_DIR$">
+    <configuration name="Map.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/OOP with Class/Map.js" working-dir="$PROJECT_DIR$/OOP with Class">
       <method v="2" />
     </configuration>
     <configuration name="Seller.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/OOP/Seller.js" working-dir="$PROJECT_DIR$/OOP">
@@ -67,10 +79,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Node.js.Store.js" />
-        <item itemvalue="Node.js.Buyer.js" />
         <item itemvalue="Node.js.Seller.js" />
-        <item itemvalue="Node.js.Computer.js" />
-        <item itemvalue="Node.js.Promisify.js" />
+        <item itemvalue="Node.js.Buyer.js" />
+        <item itemvalue="Node.js.Map.js" />
+        <item itemvalue="Node.js.HeroService.js" />
       </list>
     </recent_temporary>
   </component>
@@ -162,19 +174,17 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/OOP/Buyer.js</url>
-          <line>25</line>
+          <line>26</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/OOP/Store.js</url>
           <line>30</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/OOP/Store.js</url>
           <line>25</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>

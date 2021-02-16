@@ -1,6 +1,6 @@
-import {Human} from "./Human.js"
-import {arr} from "./Electronics.js"
-export function Seller(name, surName, id,money)
+const {Human}=require( "./Human.js")
+const {arr}= require("./Electronics.js")
+ function Seller(name, surName, id,money)
 {
     Human.call(this,name,surName,id,money)
     this.role="seller"
@@ -16,4 +16,4 @@ Seller.prototype.sellProduct=function (index,Seller){
     Seller.money+=product.cost
 }
 
-export let sll=new Seller("gev","Antonyan",0,0)
+exports.sll=new Seller("gev","Antonyan",0,0)
